@@ -1,0 +1,8 @@
+{
+  "name": "Arfanitha Misool Trip",
+  "description": "Local female-guided tours, open trips, snorkeling, private adventures, and homestay bookings in Misool, Raja Ampat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
